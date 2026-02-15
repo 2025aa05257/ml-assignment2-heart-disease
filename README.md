@@ -1,2 +1,8 @@
-# ml-assignment2-heart-disease-
-This is for the purpose of ML Assignment 2
+| ML Model | Accuracy | AUC | Precision | Recall | F1 Score | MCC |
+|---------|----------|-----|----------|--------|----------|------|
+| Logistic Regression | 0.8478 | 0.9168 | 0.8785 | 0.8624 | 0.8704 | 0.6864 |
+| Decision Tree | 0.7826 | 0.7895 | 0.8632 | 0.7523 | 0.8039 | 0.5693 |
+| KNN | 0.8098 | 0.9093 | 0.8776 | 0.7890 | 0.8309 | 0.6195 |
+| Naive Bayes | 0.8370 | 0.9096 | 0.8835 | 0.8349 | 0.8585 | 0.6680 |
+| Random Forest (Ensemble) | 0.8913 | 0.9462 | 0.9159 | 0.8991 | 0.9074 | 0.7761 |
+| XGBoost (Ensemble) | 0.8533 | 0.9385 | 0.9020 | 0.8440 | 0.8720 | 0.7026 |
